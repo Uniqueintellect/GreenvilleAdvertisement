@@ -8,6 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*Zach, Jeff
+ * 2/1/17
+ * This program is a simple sumbmit form. You are able to change the color and font of your name... some fonts might be really big.
+ * We had issues in the beginning with syncing are code so we just started over 
+ * */
+
 namespace GreenvilleAdvertisement
 {
     public partial class greenvilleAdvertisement : Form
